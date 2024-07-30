@@ -1,4 +1,4 @@
-;Yuqian Cai (40187954)
+; Yuqian Cai 
 
 section .data
      number1 dd 81          ; last two digits of my phone number
