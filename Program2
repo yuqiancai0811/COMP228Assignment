@@ -1,4 +1,5 @@
-;Yuqian Cai(40187954) Q2
+; Yuqian Cai
+; Program 2
 
 section .data
     str1 db 'Hello,', 0
